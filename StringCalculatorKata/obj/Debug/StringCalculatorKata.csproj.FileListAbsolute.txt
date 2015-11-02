@@ -1,0 +1,5 @@
+C:\Trainings\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.dll
+C:\Trainings\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.pdb
+C:\Trainings\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.csprojResolveAssemblyReference.cache
+C:\Trainings\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.dll
+C:\Trainings\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.pdb
