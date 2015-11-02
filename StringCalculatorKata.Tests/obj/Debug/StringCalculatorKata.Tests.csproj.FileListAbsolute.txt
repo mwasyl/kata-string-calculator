@@ -1,0 +1,7 @@
+C:\Trainings\StringCalculatorKata\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.dll
+C:\Trainings\StringCalculatorKata\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.pdb
+C:\Trainings\StringCalculatorKata\StringCalculatorKata.Tests\bin\Debug\nunit.framework.dll
+C:\Trainings\StringCalculatorKata\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
+C:\Trainings\StringCalculatorKata\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csprojResolveAssemblyReference.cache
+C:\Trainings\StringCalculatorKata\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.dll
+C:\Trainings\StringCalculatorKata\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.pdb

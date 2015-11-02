@@ -3,3 +3,5 @@ C:\Trainings\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculato
 C:\Trainings\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.csprojResolveAssemblyReference.cache
 C:\Trainings\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.dll
 C:\Trainings\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.pdb
+C:\Trainings\StringCalculatorKata\StringCalculatorKata\bin\Debug\nunit.framework.dll
+C:\Trainings\StringCalculatorKata\StringCalculatorKata\bin\Debug\nunit.framework.xml

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0C8C0BF6-DB06-40CC-930A-79C8B7F589F2}</ProjectGuid>
+    <ProjectGuid>{6E718D8F-C24C-46C3-B570-47C30952C30F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>StringCalculatorKata</RootNamespace>
-    <AssemblyName>StringCalculatorKata</AssemblyName>
+    <RootNamespace>StringCalculatorKata.Tests</RootNamespace>
+    <AssemblyName>StringCalculatorKata.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="StringCalculator.cs" />
+    <Compile Include="StringCalculatorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
